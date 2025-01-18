@@ -21,8 +21,6 @@
 
 **Frontend**
 - HTML5, CSS3, JavaScript
-- Basic styling with CSS or frameworks like Bootstrap (optional)
-
 ---
 
 ## Installation
